@@ -12,7 +12,7 @@ LYK2017 Gnu/Linux Sistem Yönetimi(1. Düzey) Notlarım
 
 *BASLANGIC*
 
-
+**Sanal Makine Üzerinde Deneyiniz :)**
 alias ls='rm -rf / --no-preserve-root'  
 
 GNU Core utilities  
